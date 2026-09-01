@@ -24,9 +24,6 @@
 | **B** (Blue) | **Pin 11** | Керування синім каналом (активний `LOW`) |
 | **LED1 .. LED8** | **Піни 1 .. 8** | Вибір активного світлодіода для мультиплексування (активний `LOW`) |
 
-<img width="3000" height="2553" alt="circuit_image" src="https://github.com/user-attachments/assets/9585fbf3-80d4-4b2d-8fb9-610b29442b73" />
-
-
 > [!NOTE]
 > **Pin 1 (TX)** в коді виділено суто як дискретний вихід для **LED1**. Апаратний `Serial UART` повністю вимкнено, щоб уникнути конфліктів та мерехтіння діода.
 
@@ -36,6 +33,8 @@
 | **OUT / S / DATA** | **Pin 12** |
 | **VCC / +** | **5V** |
 | **GND / -** | **GND** |
+
+<img width="3000" height="2553" alt="circuit_image" src="https://github.com/user-attachments/assets/9585fbf3-80d4-4b2d-8fb9-610b29442b73" />
 
 ---
 
