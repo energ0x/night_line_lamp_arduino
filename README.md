@@ -217,8 +217,8 @@ flowchart TD
 ### Покрокова інструкція:
 1. **Клонуйте репозиторій або завантажте файли проєкту:**
    ```bash
-   git clone https://github.com/your-username/night_line_lamp.git
-   cd night_line_lamp
+   git clone https://github.com/energ0x/night_line_lamp_arduino.git
+   cd night_line_lamp_arduino.git
    ```
 2. **Встановіть залежність IRremote:**
    * Відкрийте Arduino IDE.
